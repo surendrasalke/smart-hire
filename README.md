@@ -1,3 +1,5 @@
+#smart-hire
+
 in near future, electric cars can be used for daily travel. Electric cars offer energy savings and pollution free environment, thus can be readily deployed into public transport services. One such application is a case scenario where car hire services are provided by city administration and/or private companies.
 
 Scenario: 1. Consider electric cars commuting all over the city. Each such battery operated car will have its own current power level and performance­to­battery­power proportion. All of these cars are run by the public/private company.
